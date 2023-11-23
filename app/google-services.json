@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461176505987",
+    "project_id": "fcmnotification-e519e",
+    "storage_bucket": "fcmnotification-e519e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461176505987:android:78b1b9f8ca3d4a95087db6",
+        "android_client_info": {
+          "package_name": "com.aryan.fcmpushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcNcSp3ia0XI-gGvc9tVvFpdbb8CMSqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461176505987:android:3465ad464235dc15087db6",
+        "android_client_info": {
+          "package_name": "com.aryan.newsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcNcSp3ia0XI-gGvc9tVvFpdbb8CMSqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
