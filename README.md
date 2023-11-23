@@ -8,6 +8,7 @@ This Android application is designed to fetch news data from a JSON API, allowin
 - **Browse News**: Users can scroll through a list of news articles fetched from the API.
 - **Search Functionality**: Allows users to search for specific news articles by keywords or topics.
 - **Sorting by Date**: Provides the ability to sort news articles based on their publication date.
+- **Notification**: Notification update for breaking or latest news
 
 ## Technologies Used
 
@@ -15,6 +16,7 @@ This Android application is designed to fetch news data from a JSON API, allowin
 - **JSON Parsing**: Utilizes libraries or built-in functionality for parsing JSON data.
 - **UI Components**: Utilizes RecyclerViews, SearchView, and other UI elements for smooth user interaction.
 - **Networking**: Uses network libraries like Retrofit, Volley, or standard HTTPURLConnection for API calls.
+- **FCM**: Firebase cloud messaging used for sending notification.
 
 ## Getting Started
 
@@ -30,8 +32,4 @@ To run this application locally, follow these steps:
 2. **Browse News**: Scroll through the list of news articles fetched from the API.
 3. **Search News**: Use the search functionality to find news articles based on specific keywords or topics.
 4. **Sort by Date**: Implement a feature to sort articles by their publication date.
-
-## Screenshots
-
-![News App Screenshot 1](link-to-screenshot1.png)
-![News App Screenshot 2](link-to-screenshot2.png)
+5. **Notification**: Notifying user with latest news
